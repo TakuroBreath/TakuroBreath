@@ -78,7 +78,6 @@ func main() {
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -96,7 +95,7 @@ func main() {
 
 ---
 
-## 📫 Как связаться со мной
+## 📫 Contacts:
 
 <div align="center">
   <a href="https://t.me/takurobreath" target="_blank">
