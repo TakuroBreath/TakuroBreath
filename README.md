@@ -67,8 +67,8 @@ func main() {
   <a href="https://github.com/TakuroBreath/online-chat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TakuroBreath&repo=online-chat&theme=radical" />
   </a>
-  <a href="https://github.com/TakuroBreath/auth-go">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TakuroBreath&repo=auth-go&theme=radical" />
+  <a href="https://github.com/TakuroBreath/wordle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TakuroBreath&repo=wordle&theme=radical" />
   </a>
 </div>
 
